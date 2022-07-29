@@ -1,0 +1,4 @@
+node_modules
+yarn.lock
+app/renderer/pages/main/
+app.asar

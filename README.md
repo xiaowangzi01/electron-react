@@ -1,1 +1,1 @@
-"# electron-react" 
+# electron-react
